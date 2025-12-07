@@ -61,11 +61,11 @@ The dataset includes separate CSV files for **weekday** and **weekend** listings
 
 ##  Key Analyses Performed
 
-### ✔ Price distribution (weekday vs weekend)
+###  Price distribution (weekday vs weekend)
 
-### ✔ City‑level comparison
+###  City‑level comparison
 
-### ✔ Relationship between price and:
+###  Relationship between price and:
 
 * distance from center
 * room type
@@ -73,7 +73,7 @@ The dataset includes separate CSV files for **weekday** and **weekend** listings
 * number of bedrooms
 * guest satisfaction
 
-### ✔ Effect of superhost status on pricing
+###  Effect of superhost status on pricing
 
 
 
