@@ -1,7 +1,7 @@
 # Airbnb-Prices-in-European-Cities-Exploratory-Data-Analysis-EDA-
 This project is a high–impact, portfolio‑ready exploratory data analysis (EDA) on Airbnb listings across major European cities. The goal is to understand the key determinants of Airbnb pricing by analyzing factors such as room types, cleanliness ratings, satisfaction scores, distance from city center, host attributes, and more.
 
-## 🚀 Project Objectives
+##  Project Objectives
 
 * Understand pricing trends across European cities
 * Analyze the influence of:
@@ -18,7 +18,7 @@ This project is a high–impact, portfolio‑ready exploratory data analysis (ED
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 **Source:** Kaggle — *Airbnb Prices in European Cities*
 **License:** CC0 (Public Domain — free to use)
@@ -38,7 +38,7 @@ The dataset includes separate CSV files for **weekday** and **weekend** listings
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 * Jupyter Notebook
@@ -46,7 +46,7 @@ The dataset includes separate CSV files for **weekday** and **weekend** listings
 
 ---
 
-## 📚 Project Structure
+##  Project Structure
 
 ```
 ├── EDA_Airbnb_Prices_in_European_Cities.ipynb   # Main analysis notebook
@@ -59,7 +59,7 @@ The dataset includes separate CSV files for **weekday** and **weekend** listings
 
 ---
 
-## 🔍 Key Analyses Performed
+##  Key Analyses Performed
 
 ### ✔ Price distribution (weekday vs weekend)
 
@@ -77,7 +77,7 @@ The dataset includes separate CSV files for **weekday** and **weekend** listings
 
 
 
-## 📈 Overall Insights
+## Overall Insights
 
 Prices vary dramatically by city, with major tourist capitals being the most expensive.
 
